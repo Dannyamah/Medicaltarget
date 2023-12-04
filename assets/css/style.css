@@ -55,7 +55,7 @@ a {
 
 a:hover {
   text-decoration: none;
-  color: #19ce67;
+  color: blue;
 }
 
 button {
@@ -125,7 +125,7 @@ p:last-child {
 }
 
 .btn-primary {
-  background: #19ce67;
+  background: blue;
   color: #ffffff;
 }
 
@@ -142,13 +142,13 @@ p:last-child {
   line-height: 33px;
   color: #ffffff;
   border-radius: 50%;
-  background-color: #8ee9b2;
+  background-color: blue;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
 
 .btn-primary.disabled, .btn-primary:disabled {
-  background: #19ce67;
+  background: blue;
   color: #ffffff;
 }
 
@@ -209,7 +209,7 @@ p:last-child {
 .section-title span {
   display: block;
   margin-bottom: 5px;
-  color: #19ce67;
+  color: blue;
   font-size: 17px;
   font-family: "Rubik", sans-serif;
 }
@@ -245,7 +245,7 @@ p:last-child {
 .form-control:focus {
   -webkit-box-shadow: unset !important;
           box-shadow: unset !important;
-  border-color: #19ce67;
+  border-color: blue;
 }
 
 /*================================================
@@ -326,7 +326,7 @@ Preloader Area CSS
 }
 
 .preloader .loader .indicator svg polyline#front {
-  stroke: #19ce67;
+  stroke: blue;
   stroke-dasharray: 12, 36;
   stroke-dashoffset: 48;
   -webkit-animation: dash 1s linear infinite;
@@ -341,7 +341,7 @@ Preloader Area CSS
   height: 100%;
   width: 60%;
   z-index: -1;
-  background: #19ce67;
+  background: blue;
   -webkit-transition: .9s;
   transition: .9s;
 }
@@ -450,7 +450,7 @@ Header Area CSS
 }
 
 .header-contact-info li i {
-  color: #19ce67;
+  color: blue;
   margin-right: 4px;
   width: 28px;
   height: 28px;
@@ -469,7 +469,7 @@ Header Area CSS
 }
 
 .header-contact-info li:hover i {
-  background-color: #19ce67;
+  background-color: blue;
   color: #ffffff;
 }
 
@@ -491,7 +491,7 @@ Header Area CSS
 
 .header-right-content .top-header-social li a {
   display: block;
-  color: #19ce67;
+  color: blue;
   width: 30px;
   height: 30px;
   line-height: 31px;
@@ -503,7 +503,7 @@ Header Area CSS
 
 .header-right-content .top-header-social li a:hover {
   color: #ffffff;
-  background-color: #19ce67;
+  background-color: blue;
   -webkit-transform: translateY(-5px);
           transform: translateY(-5px);
 }
@@ -555,7 +555,7 @@ Header Area CSS
 }
 
 .header-right-content .lang-select .nice-select .list .option:hover {
-  background-color: #19ce67 !important;
+  background-color: blue !important;
   color: #ffffff;
 }
 
@@ -629,7 +629,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item a:hover, .fovia-nav .navbar .navbar-nav .nav-item a:focus, .fovia-nav .navbar .navbar-nav .nav-item a.active {
-  color: #19ce67;
+  color: blue;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item a i {
@@ -648,7 +648,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item:hover a, .fovia-nav .navbar .navbar-nav .nav-item:focus a, .fovia-nav .navbar .navbar-nav .nav-item.active a {
-  color: #19ce67;
+  color: blue;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu {
@@ -667,7 +667,7 @@ Header Area CSS
   border-radius: 0;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  border-top: 3px solid #19ce67;
+  border-top: 3px solid blue;
   padding-top: 20px;
   padding-left: 25px;
   padding-right: 25px;
@@ -687,7 +687,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:hover, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:focus, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li a.active {
-  color: #19ce67;
+  color: blue;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu {
@@ -702,7 +702,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:hover, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:focus, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a.active {
-  color: #19ce67;
+  color: blue;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -718,7 +718,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #19ce67;
+  color: blue;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -734,7 +734,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #19ce67;
+  color: blue;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -750,7 +750,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #19ce67;
+  color: blue;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -766,7 +766,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #19ce67;
+  color: blue;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -782,11 +782,11 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #19ce67;
+  color: blue;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #19ce67;
+  color: blue;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -796,7 +796,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #19ce67;
+  color: blue;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -806,7 +806,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #19ce67;
+  color: blue;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -816,7 +816,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #19ce67;
+  color: blue;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -826,7 +826,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li.active a {
-  color: #19ce67;
+  color: blue;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -836,7 +836,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li.active a {
-  color: #19ce67;
+  color: blue;
 }
 
 .fovia-nav .navbar .navbar-nav .nav-item .dropdown-menu li:hover .dropdown-menu {
@@ -860,7 +860,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .others-options .cart-btn:hover {
-  color: #19ce67;
+  color: blue;
 }
 
 .fovia-nav .navbar .others-options .btn {
@@ -889,7 +889,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .others-options .option-item .search-btn:hover {
-  color: #19ce67;
+  color: blue;
 }
 
 .fovia-nav .navbar .others-options .option-item .search-close-btn {
@@ -907,7 +907,7 @@ Header Area CSS
 }
 
 .fovia-nav .navbar .others-options .option-item .search-close-btn:hover {
-  color: #19ce67;
+  color: blue;
 }
 
 .navbar-area {
@@ -971,7 +971,7 @@ Header Area CSS
 }
 
 .search-overlay.search-popup .search-form .search-input:focus {
-  border-color: #19ce67;
+  border-color: blue;
 }
 
 .search-overlay.search-popup .search-form .search-button {
@@ -989,7 +989,7 @@ Header Area CSS
 }
 
 .search-overlay.search-popup .search-form .search-button:hover, .search-overlay.search-popup .search-form .search-button:focus {
-  color: #19ce67;
+  color: blue;
 }
 
 @media only screen and (max-width: 991px) {
@@ -1012,7 +1012,7 @@ Header Area CSS
     font-size: 14px;
   }
   .fovia-responsive-nav .fovia-responsive-menu.mean-container .mean-nav ul li a.active {
-    color: #19ce67;
+    color: blue;
   }
   .fovia-responsive-nav .fovia-responsive-menu.mean-container .mean-nav ul li li a {
     font-size: 13.5px;
@@ -1050,7 +1050,7 @@ Header Area CSS
     font-size: 17px;
   }
   .fovia-responsive-nav .others-options .cart-btn:hover {
-    color: #19ce67;
+    color: blue;
   }
   .fovia-responsive-nav .others-options .option-item {
     display: none;
@@ -1070,7 +1070,7 @@ Header Area CSS
     font-size: 17px;
   }
   .fovia-responsive-nav .others-options .option-item .search-btn:hover {
-    color: #19ce67;
+    color: blue;
   }
   .fovia-responsive-nav .others-options .option-item .search-close-btn {
     cursor: pointer;
@@ -1085,7 +1085,7 @@ Header Area CSS
     display: block;
   }
   .fovia-responsive-nav .others-options .option-item .search-close-btn:hover {
-    color: #19ce67;
+    color: blue;
   }
   .search-overlay.search-popup .search-form .search-input {
     width: 96%;
@@ -1129,7 +1129,7 @@ Main Banner Area CSS
 .main-banner-content span {
   display: block;
   margin-bottom: 15px;
-  color: #19ce67;
+  color: blue;
   font-size: 17px;
   font-family: "Rubik", sans-serif;
 }
@@ -1187,7 +1187,7 @@ Main Banner Area CSS
 }
 
 .home-slides.owl-theme .owl-nav [class*=owl-]:hover {
-  background-color: #19ce67;
+  background-color: blue;
   color: #ffffff;
 }
 
@@ -1214,12 +1214,12 @@ Main Banner Area CSS
 }
 
 .home-slides.owl-theme .owl-dots .owl-dot:hover span {
-  background-color: #19ce67;
+  background-color: blue;
 }
 
 .home-slides.owl-theme .owl-dots .owl-dot.active span {
   width: 25px;
-  background-color: #19ce67;
+  background-color: blue;
 }
 
 .home-slides.owl-theme:hover .owl-nav {
@@ -1353,7 +1353,7 @@ Main Services Area CSS
   height: 60px;
   line-height: 60px;
   border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
-  background-color: #19ce67;
+  background-color: blue;
   color: #ffffff;
   font-size: 25px;
   -webkit-transition: 0.5s;
@@ -1402,7 +1402,7 @@ Main Services Area CSS
   position: absolute;
   left: 0;
   top: 0;
-  background-color: #19ce67;
+  background-color: blue;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -1527,7 +1527,7 @@ About Area CSS
 .about-content span {
   display: block;
   margin-bottom: 5px;
-  color: #19ce67;
+  color: blue;
   font-size: 17px;
   font-family: "Rubik", sans-serif;
 }
@@ -1564,8 +1564,8 @@ About Area CSS
   line-height: 25px;
   text-align: center;
   border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
-  background-color: #d2f5e1;
-  color: #19ce67;
+  background-color: red;
+  color: blue;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   display: inline-block;
@@ -1576,7 +1576,7 @@ About Area CSS
 }
 
 .about-content ul li:hover i {
-  background-color: #19ce67;
+  background-color: blue;
   color: #ffffff;
 }
 
@@ -1620,7 +1620,7 @@ Our Mission Area CSS
 .our-mission-content .sub-title {
   display: block;
   margin-bottom: 5px;
-  color: #19ce67;
+  color: blue;
   font-size: 17px;
   font-family: "Rubik", sans-serif;
 }
@@ -1673,7 +1673,7 @@ Our Mission Area CSS
   line-height: 45px;
   text-align: center;
   border-radius: 50%;
-  color: #19ce67;
+  color: blue;
   font-size: 16px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -1689,7 +1689,7 @@ Our Mission Area CSS
 }
 
 .our-mission-content ul li:hover .icon {
-  background-color: #19ce67;
+  background-color: blue;
   color: #ffffff;
   border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
 }
@@ -1732,7 +1732,7 @@ Our Approach Area CSS
 .approach-content .sub-title {
   display: block;
   margin-bottom: 5px;
-  color: #19ce67;
+  color: blue;
   font-size: 17px;
   font-family: "Rubik", sans-serif;
 }
@@ -1769,8 +1769,8 @@ Our Approach Area CSS
   line-height: 25px;
   text-align: center;
   border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
-  background-color: #d2f5e1;
-  color: #19ce67;
+  background-color: red;
+  color: blue;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   display: inline-block;
@@ -1781,7 +1781,7 @@ Our Approach Area CSS
 }
 
 .approach-content ul li:hover i {
-  background-color: #19ce67;
+  background-color: blue;
   color: #ffffff;
 }
 
@@ -1822,7 +1822,7 @@ Our Vision Area CSS
   height: 60px;
   line-height: 60px;
   border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
-  background-color: #19ce67;
+  background-color: blue;
   color: #ffffff;
   font-size: 25px;
   -webkit-transition: 0.5s;
@@ -1853,7 +1853,7 @@ Our Vision Area CSS
   position: absolute;
   left: 0;
   top: 0;
-  background-color: #19ce67;
+  background-color: blue;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -1919,7 +1919,7 @@ Fun Facts Area CSS
 
 .single-fun-facts .icon {
   font-size: 45px;
-  color: #19ce67;
+  color: blue;
   margin-bottom: 10px;
 }
 
@@ -1941,7 +1941,7 @@ Fun Facts Area CSS
 }
 
 .single-fun-facts p {
-  color: #19ce67;
+  color: blue;
   line-height: initial;
   margin-top: 5px;
 }
@@ -2011,7 +2011,7 @@ Services Area CSS
   line-height: 75px;
   border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
   background-color: #ffffff;
-  color: #19ce67;
+  color: blue;
   font-size: 30px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -2058,7 +2058,7 @@ Services Area CSS
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: #19ce67;
+  background-color: blue;
   z-index: -1;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -2067,7 +2067,7 @@ Services Area CSS
 }
 
 .single-services-box .read-more-btn {
-  color: #19ce67;
+  color: blue;
   display: inline-block;
   margin-top: 18px;
   text-transform: uppercase;
@@ -2110,7 +2110,7 @@ Services Area CSS
 }
 
 .single-services-box:hover::before {
-  background-color: #19ce67;
+  background-color: blue;
   opacity: .80;
 }
 
@@ -2157,8 +2157,8 @@ Services Details Area CSS
   line-height: 25px;
   text-align: center;
   border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
-  background-color: #d2f5e1;
-  color: #19ce67;
+  background-color: red;
+  color: blue;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   display: inline-block;
@@ -2169,7 +2169,7 @@ Services Details Area CSS
 }
 
 .services-details-desc .services-features-list li:hover i {
-  background-color: #19ce67;
+  background-color: blue;
   color: #ffffff;
 }
 
@@ -2256,7 +2256,7 @@ Doctor Area CSS
   background-color: #ffffff;
   line-height: 35px;
   border-radius: 50%;
-  color: #19ce67;
+  color: blue;
   opacity: 0;
   visibility: hidden;
   margin-top: 25px;
@@ -2275,7 +2275,7 @@ Doctor Area CSS
   border-radius: 50%;
   left: 0;
   top: 0;
-  background-color: #19ce67;
+  background-color: blue;
   opacity: 0;
   visibility: hidden;
   -webkit-transition: 0.5s;
@@ -2298,7 +2298,7 @@ Doctor Area CSS
 
 .single-doctor-box .doctor-content span {
   display: block;
-  color: #19ce67;
+  color: blue;
   font-size: 14.5px;
   margin-top: 5px;
 }
@@ -2318,7 +2318,7 @@ Doctor Area CSS
 
 .single-doctor-box .doctor-content .social li a {
   display: block;
-  color: #19ce67;
+  color: blue;
   width: 30px;
   height: 30px;
   line-height: 30px;
@@ -2330,7 +2330,7 @@ Doctor Area CSS
 
 .single-doctor-box .doctor-content .social li a:hover {
   color: #ffffff;
-  background-color: #19ce67;
+  background-color: blue;
   -webkit-transform: translateY(-2px);
           transform: translateY(-2px);
 }
@@ -2390,7 +2390,7 @@ Doctor Area CSS
 }
 
 .doctor-slides.owl-theme .owl-nav [class*=owl-]:hover {
-  background-color: #19ce67;
+  background-color: blue;
   color: #ffffff;
 }
 
@@ -2428,7 +2428,7 @@ Doctor Details Area CSS
 
 .doctor-details-image span {
   display: block;
-  color: #19ce67;
+  color: blue;
   font-size: 14.5px;
   margin-top: 7px;
 }
@@ -2448,7 +2448,7 @@ Doctor Details Area CSS
 
 .doctor-details-image .social li a {
   display: block;
-  color: #19ce67;
+  color: blue;
   width: 30px;
   height: 30px;
   line-height: 30px;
@@ -2460,7 +2460,7 @@ Doctor Details Area CSS
 
 .doctor-details-image .social li a:hover {
   color: #ffffff;
-  background-color: #19ce67;
+  background-color: blue;
   -webkit-transform: translateY(-2px);
           transform: translateY(-2px);
 }
@@ -2499,7 +2499,7 @@ Doctor Details Area CSS
 .skill-desc .sub-title {
   display: block;
   margin-bottom: 3px;
-  color: #19ce67;
+  color: blue;
   font-size: 17px;
   font-family: "Rubik", sans-serif;
 }
@@ -2554,8 +2554,8 @@ Doctor Details Area CSS
   line-height: 25px;
   text-align: center;
   border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
-  background-color: #d2f5e1;
-  color: #19ce67;
+  background-color: red;
+  color: blue;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   display: inline-block;
@@ -2566,14 +2566,14 @@ Doctor Details Area CSS
 }
 
 .skill-desc ul li span:hover i {
-  background-color: #19ce67;
+  background-color: blue;
   color: #ffffff;
 }
 
 .education-desc .sub-title {
   display: block;
   margin-bottom: 3px;
-  color: #19ce67;
+  color: blue;
   font-size: 17px;
   font-family: "Rubik", sans-serif;
 }
@@ -2626,7 +2626,7 @@ Doctor Details Area CSS
   line-height: 45px;
   text-align: center;
   border-radius: 50%;
-  color: #19ce67;
+  color: blue;
   font-size: 16px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -2641,7 +2641,7 @@ Doctor Details Area CSS
 }
 
 .education-desc ul li:hover .icon {
-  background-color: #19ce67;
+  background-color: blue;
   color: #ffffff;
   border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
 }
@@ -2688,7 +2688,7 @@ Appointment Area CSS
 .appointment-content .sub-title {
   display: block;
   margin-bottom: 10px;
-  color: #19ce67;
+  color: blue;
   font-size: 17px;
   font-family: "Rubik", sans-serif;
 }
@@ -2716,7 +2716,7 @@ Appointment Area CSS
   position: absolute;
   left: 0;
   top: 0;
-  color: #19ce67;
+  color: blue;
   font-size: 35px;
 }
 
@@ -2757,7 +2757,7 @@ Appointment Area CSS
 }
 
 .appointment-content form .form-group .form-control:focus {
-  border-color: #19ce67;
+  border-color: blue;
   padding-left: 2px;
 }
 
@@ -2796,7 +2796,7 @@ Appointment Area CSS
 }
 
 .appointment-content form .form-group .nice-select .list .option:hover {
-  background-color: #19ce67 !important;
+  background-color: blue !important;
   color: #ffffff;
 }
 
@@ -2837,7 +2837,7 @@ Doctor Calendar Area CSS
 .doctor-calendar-table table thead tr th {
   vertical-align: middle;
   text-align: center;
-  background-color: #19ce67;
+  background-color: blue;
   border: none;
   color: #ffffff;
   text-transform: uppercase;
@@ -2890,7 +2890,7 @@ Doctor Calendar Area CSS
 .doctor-calendar-table table tbody tr td span.time {
   display: inline-block;
   background-color: #dff5e8;
-  color: #19ce67;
+  color: blue;
   width: 65px;
   height: 65px;
   border-radius: 50%;
@@ -2902,8 +2902,8 @@ Doctor Calendar Area CSS
 }
 
 .doctor-calendar-table table tbody tr td:hover {
-  background-color: #19ce67;
-  border-color: #19ce67;
+  background-color: blue;
+  border-color: blue;
 }
 
 .doctor-calendar-table table tbody tr td:hover h3 {
@@ -2916,7 +2916,7 @@ Doctor Calendar Area CSS
 
 .doctor-calendar-table table tbody tr td:hover span.time {
   background-color: #ffffff;
-  color: #19ce67;
+  color: blue;
 }
 
 .doctor-calendar-table table tbody tr:last-child td {
@@ -2964,7 +2964,7 @@ Feedback Area CSS
 
 .feedback-slides .client-feedback .single-feedback span {
   display: block;
-  color: #19ce67;
+  color: blue;
   margin-top: 5px;
   margin-bottom: 15px;
   font-family: "Rubik", sans-serif;
@@ -3035,7 +3035,7 @@ Feedback Area CSS
   transition: 0.5s;
   display: inline-block;
   position: relative;
-  border: 2px solid #19ce67;
+  border: 2px solid blue;
   border-radius: 50%;
   padding: 3px;
   width: 85px;
@@ -3072,7 +3072,7 @@ Feedback Area CSS
 
 .feedback-slides .next-arrow:hover, .feedback-slides .prev-arrow:hover {
   color: #ffffff;
-  background-color: #19ce67;
+  background-color: blue;
 }
 
 .feedback-slides .next-arrow {
@@ -3119,7 +3119,7 @@ FAQ Area CSS
 .faq-accordion .sub-title {
   display: block;
   margin-bottom: 5px;
-  color: #19ce67;
+  color: blue;
   font-size: 17px;
   font-family: "Rubik", sans-serif;
 }
@@ -3169,8 +3169,8 @@ FAQ Area CSS
   width: 40px;
   text-align: center;
   height: 100%;
-  background: #d2f5e1;
-  color: #19ce67;
+  background: red;
+  color: blue;
   font-size: 14px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -3190,7 +3190,7 @@ FAQ Area CSS
 }
 
 .faq-accordion .accordion .accordion-title.active i {
-  background-color: #19ce67;
+  background-color: blue;
   color: #ffffff;
 }
 
@@ -3347,15 +3347,15 @@ Partner Area CSS
 .partner-item a::before {
   left: 0;
   top: 0;
-  border-left: 3px solid #19ce67;
-  border-top: 3px solid #19ce67;
+  border-left: 3px solid blue;
+  border-top: 3px solid blue;
 }
 
 .partner-item a::after {
   right: 0;
   bottom: 0;
-  border-right: 3px solid #19ce67;
-  border-bottom: 3px solid #19ce67;
+  border-right: 3px solid blue;
+  border-bottom: 3px solid blue;
 }
 
 .partner-item a img {
@@ -3438,7 +3438,7 @@ Blog Area CSS
 }
 
 .single-blog-post .post-content .post-meta ul li a {
-  color: #19ce67;
+  color: blue;
 }
 
 .single-blog-post .post-content .post-meta ul li:last-child {
@@ -3501,11 +3501,11 @@ Blog Details Area CSS
 }
 
 .blog-details-desc .article-content .entry-meta ul li a:hover {
-  color: #19ce67;
+  color: blue;
 }
 
 .blog-details-desc .article-content .entry-meta ul li i {
-  color: #19ce67;
+  color: blue;
   margin-right: 2px;
 }
 
@@ -3516,7 +3516,7 @@ Blog Details Area CSS
   right: -15px;
   width: 6px;
   height: 1px;
-  background: #19ce67;
+  background: blue;
 }
 
 .blog-details-desc .article-content .entry-meta ul li:last-child {
@@ -3581,8 +3581,8 @@ Blog Details Area CSS
   line-height: 25px;
   text-align: center;
   border-radius: 70% 30% 30% 70% / 60% 40% 60% 40%;
-  background-color: #d2f5e1;
-  color: #19ce67;
+  background-color: red;
+  color: blue;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   display: inline-block;
@@ -3593,7 +3593,7 @@ Blog Details Area CSS
 }
 
 .blog-details-desc .article-content .features-list li:hover i {
-  background-color: #19ce67;
+  background-color: blue;
   color: #ffffff;
 }
 
@@ -3632,7 +3632,7 @@ Blog Details Area CSS
 }
 
 .blog-details-desc .article-footer .article-tags a:hover {
-  color: #19ce67;
+  color: blue;
 }
 
 .blog-details-desc .article-footer .article-share {
@@ -3662,7 +3662,7 @@ Blog Details Area CSS
 
 .blog-details-desc .article-footer .article-share .social li a {
   display: block;
-  color: #19ce67;
+  color: blue;
   width: 32px;
   height: 32px;
   line-height: 32px;
@@ -3674,7 +3674,7 @@ Blog Details Area CSS
 
 .blog-details-desc .article-footer .article-share .social li a:hover {
   color: #ffffff;
-  background-color: #19ce67;
+  background-color: blue;
   -webkit-transform: translateY(-2px);
           transform: translateY(-2px);
 }
@@ -3726,7 +3726,7 @@ blockquote::after, .blockquote::after {
   top: 0;
   bottom: 0;
   width: 3px;
-  background-color: #19ce67;
+  background-color: blue;
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -3796,7 +3796,7 @@ blockquote::after, .blockquote::after {
   width: 3px;
   left: -25px;
   position: absolute;
-  background: #19ce67;
+  background: blue;
   top: 50%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
@@ -3846,8 +3846,8 @@ blockquote::after, .blockquote::after {
 
 .comments-area .comment-body .reply a:hover {
   color: #ffffff;
-  background-color: #19ce67;
-  border-color: #19ce67;
+  background-color: blue;
+  border-color: blue;
 }
 
 .comments-area .comment-meta {
@@ -3889,7 +3889,7 @@ blockquote::after, .blockquote::after {
 }
 
 .comments-area .comment-metadata a:hover {
-  color: #19ce67;
+  color: blue;
 }
 
 .comments-area .comment-content p {
@@ -3913,7 +3913,7 @@ blockquote::after, .blockquote::after {
   width: 3px;
   left: -25px;
   position: absolute;
-  background: #19ce67;
+  background: blue;
   top: 50%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
@@ -3961,7 +3961,7 @@ blockquote::after, .blockquote::after {
 }
 
 .comments-area .comment-respond input[type="date"]:focus, .comments-area .comment-respond input[type="time"]:focus, .comments-area .comment-respond input[type="datetime-local"]:focus, .comments-area .comment-respond input[type="week"]:focus, .comments-area .comment-respond input[type="month"]:focus, .comments-area .comment-respond input[type="text"]:focus, .comments-area .comment-respond input[type="email"]:focus, .comments-area .comment-respond input[type="url"]:focus, .comments-area .comment-respond input[type="password"]:focus, .comments-area .comment-respond input[type="search"]:focus, .comments-area .comment-respond input[type="tel"]:focus, .comments-area .comment-respond input[type="number"]:focus, .comments-area .comment-respond textarea:focus {
-  border-color: #19ce67;
+  border-color: blue;
 }
 
 .comments-area .comment-respond .comment-form-author {
@@ -4011,7 +4011,7 @@ blockquote::after, .blockquote::after {
 }
 
 .comments-area .comment-respond .form-submit input {
-  background: #19ce67;
+  background: blue;
   border: none;
   color: #ffffff;
   padding: 14px 30px 12px;
@@ -4083,7 +4083,7 @@ Page Title Area CSS
 .page-title-content ul li {
   display: inline-block;
   position: relative;
-  color: #19ce67;
+  color: blue;
   font-size: 16px;
   font-family: "Rubik", sans-serif;
   margin-left: 8px;
@@ -4095,7 +4095,7 @@ Page Title Area CSS
 }
 
 .page-title-content ul li a:hover {
-  color: #19ce67;
+  color: blue;
 }
 
 .page-title-content ul li::before {
@@ -4137,10 +4137,10 @@ Pagination Area CSS
 }
 
 .pagination-area .page-numbers.current, .pagination-area .page-numbers:hover, .pagination-area .page-numbers:focus {
-  background: #19ce67;
+  background: blue;
   color: #ffffff;
-  -webkit-box-shadow: 0 2px 10px 0 #19ce67;
-          box-shadow: 0 2px 10px 0 #19ce67;
+  -webkit-box-shadow: 0 2px 10px 0 blue;
+          box-shadow: 0 2px 10px 0 blue;
 }
 
 /*================================================
@@ -4171,7 +4171,7 @@ Sidebar Widget Area CSS
 .widget-area .widget .widget-title::before {
   content: '';
   position: absolute;
-  background: #19ce67;
+  background: blue;
   bottom: -1px;
   left: 0;
   width: 50px;
@@ -4204,7 +4204,7 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .widget_search form .search-field:focus {
-  border-color: #19ce67;
+  border-color: blue;
 }
 
 .widget-area .widget_search form button {
@@ -4216,7 +4216,7 @@ Sidebar Widget Area CSS
   width: 50px;
   border: none;
   color: #ffffff;
-  background-color: #19ce67;
+  background-color: blue;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -4311,7 +4311,7 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .widget_recent_entries ul li::before {
-  background: #19ce67;
+  background: blue;
   position: absolute;
   height: 7px;
   width: 7px;
@@ -4347,7 +4347,7 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .widget_recent_comments ul li::before {
-  background: #19ce67;
+  background: blue;
   position: absolute;
   height: 7px;
   width: 7px;
@@ -4382,7 +4382,7 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .widget_archive ul li::before {
-  background: #19ce67;
+  background: blue;
   position: absolute;
   height: 7px;
   width: 7px;
@@ -4410,7 +4410,7 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .widget_categories ul li::before {
-  background: #19ce67;
+  background: blue;
   position: absolute;
   height: 7px;
   width: 7px;
@@ -4446,7 +4446,7 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .widget_meta ul li::before {
-  background: #19ce67;
+  background: blue;
   position: absolute;
   height: 7px;
   width: 7px;
@@ -4471,9 +4471,9 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .tagcloud a:hover, .widget-area .tagcloud a:focus {
-  background-color: #19ce67;
+  background-color: blue;
   color: #ffffff;
-  border-color: #19ce67;
+  border-color: blue;
 }
 
 .widget-area .widget_services_list ul {
@@ -4521,7 +4521,7 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .widget_services_list ul li a.active, .widget-area .widget_services_list ul li a:hover {
-  background-color: #19ce67;
+  background-color: blue;
   color: #ffffff;
   padding-left: 20px;
 }
@@ -4581,7 +4581,7 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .widget_download ul li a.active, .widget-area .widget_download ul li a:hover {
-  background-color: #19ce67;
+  background-color: blue;
   color: #ffffff;
   padding-left: 20px;
 }
@@ -4613,7 +4613,7 @@ Sidebar Widget Area CSS
   position: absolute;
   left: 0;
   top: 0;
-  color: #19ce67;
+  color: blue;
   font-size: 30px;
 }
 
@@ -4654,7 +4654,7 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .widget_appointment form .form-group .form-control:focus {
-  border-color: #19ce67;
+  border-color: blue;
   padding-left: 2px;
 }
 
@@ -4693,7 +4693,7 @@ Sidebar Widget Area CSS
 }
 
 .widget-area .widget_appointment form .form-group .nice-select .list .option:hover {
-  background-color: #19ce67 !important;
+  background-color: blue !important;
   color: #ffffff;
 }
 
@@ -4762,7 +4762,7 @@ Shop Area CSS
 }
 
 .woocommerce-topbar .woocommerce-topbar-ordering .nice-select .list .option:hover {
-  background-color: #19ce67 !important;
+  background-color: blue !important;
   color: #ffffff;
 }
 
@@ -4828,7 +4828,7 @@ Shop Area CSS
 }
 
 .single-product-box .product-image .add-to-cart-btn:hover {
-  background-color: #19ce67;
+  background-color: blue;
   color: #ffffff;
 }
 
@@ -4944,8 +4944,8 @@ Product Details Area CSS
 }
 
 .product-details-desc .product-review .rating-count:hover {
-  color: #19ce67;
-  border-color: #19ce67;
+  color: blue;
+  border-color: blue;
 }
 
 .product-details-desc .product-add-to-cart {
@@ -4983,7 +4983,7 @@ Product Details Area CSS
 }
 
 .product-details-desc .product-add-to-cart .input-counter span:hover {
-  color: #19ce67;
+  color: blue;
 }
 
 .product-details-desc .product-add-to-cart .input-counter input {
@@ -5231,8 +5231,8 @@ Product Details Area CSS
 
 .products-details-tab .tabs li a:hover, .products-details-tab .tabs li a:focus {
   color: #ffffff;
-  background-color: #19ce67;
-  border-color: #19ce67;
+  background-color: blue;
+  border-color: blue;
 }
 
 .products-details-tab .tabs li a:hover .dot, .products-details-tab .tabs li a:focus .dot {
@@ -5245,8 +5245,8 @@ Product Details Area CSS
 
 .products-details-tab .tabs li.current a {
   color: #ffffff;
-  background-color: #19ce67;
-  border-color: #19ce67;
+  background-color: blue;
+  border-color: blue;
 }
 
 .products-details-tab .tabs li.current a .dot {
@@ -5386,7 +5386,7 @@ Product Details Area CSS
 }
 
 .products-details-tab .tab_content .tabs_item .products-details-tab-content .product-review-form .review-comments .review-item .review-report-link:hover {
-  color: #19ce67;
+  color: blue;
 }
 
 .products-details-tab .tab_content .tabs_item .products-details-tab-content .product-review-form .review-form {
@@ -5586,7 +5586,7 @@ Cart Area CSS
 }
 
 .cart-buttons .shopping-coupon-code button:hover {
-  background-color: #19ce67;
+  background-color: blue;
 }
 
 .cart-totals {
@@ -5648,7 +5648,7 @@ Checkout Area CSS
   background: #ffffff;
   padding: 18px 20px 15px;
   margin-bottom: 65px;
-  border-top: 3px solid #19ce67;
+  border-top: 3px solid blue;
   position: relative;
 }
 
@@ -5663,14 +5663,14 @@ Checkout Area CSS
 }
 
 .user-actions i {
-  color: #19ce67;
+  color: blue;
   margin-right: 2px;
 }
 
 .user-actions span {
   display: inline-block;
   font-weight: 500;
-  color: #19ce67;
+  color: blue;
 }
 
 .user-actions span a {
@@ -5679,7 +5679,7 @@ Checkout Area CSS
 }
 
 .user-actions span a:hover, .user-actions span a:focus {
-  color: #19ce67;
+  color: blue;
 }
 
 .billing-details .title {
@@ -5694,7 +5694,7 @@ Checkout Area CSS
 .billing-details .title::before {
   content: '';
   position: absolute;
-  background: #19ce67;
+  background: blue;
   bottom: -1px;
   left: 0;
   width: 50px;
@@ -5745,7 +5745,7 @@ Checkout Area CSS
 }
 
 .billing-details .form-group .nice-select .list .option:hover {
-  background-color: #19ce67 !important;
+  background-color: blue !important;
   color: #ffffff;
 }
 
@@ -5801,7 +5801,7 @@ Checkout Area CSS
 .order-details .title::before {
   content: '';
   position: absolute;
-  background: #19ce67;
+  background: blue;
   bottom: -1px;
   left: 0;
   width: 50px;
@@ -5839,7 +5839,7 @@ Checkout Area CSS
 }
 
 .order-details .order-table table tbody tr td.product-name a:hover {
-  color: #19ce67;
+  color: blue;
 }
 
 .order-details .order-table table tbody tr td.order-subtotal span, .order-details .order-table table tbody tr td.order-shipping span, .order-details .order-table table tbody tr td.total-price span {
@@ -5893,7 +5893,7 @@ Checkout Area CSS
   content: '';
   width: 12px;
   height: 12px;
-  background: #19ce67;
+  background: blue;
   position: absolute;
   top: 6px;
   left: 3px;
@@ -6026,7 +6026,7 @@ Contact Area CSS
 }
 
 .contact-info ul li .icon {
-  border: 1px dashed #19ce67;
+  border: 1px dashed blue;
   width: 75px;
   height: 75px;
   line-height: 75px;
@@ -6049,11 +6049,11 @@ Contact Area CSS
   right: 0;
   top: 0;
   bottom: 0;
-  background: #19ce67;
+  background: blue;
   border-radius: 50%;
   margin: 6px;
-  -webkit-box-shadow: 0 1px 3px 1px #19ce67;
-          box-shadow: 0 1px 3px 1px #19ce67;
+  -webkit-box-shadow: 0 1px 3px 1px blue;
+          box-shadow: 0 1px 3px 1px blue;
   z-index: -1;
 }
 
@@ -6072,7 +6072,7 @@ Contact Area CSS
 }
 
 .contact-info ul li a:hover {
-  color: #19ce67;
+  color: blue;
 }
 
 .contact-info ul li:last-child {
@@ -6189,7 +6189,7 @@ Subscribe Area CSS
   padding: 1px 50px 0 25px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
-  background: #19ce67;
+  background: blue;
   height: 55px;
   color: #ffffff;
   display: inline-block;
@@ -6211,7 +6211,7 @@ Subscribe Area CSS
   line-height: 33px;
   color: #ffffff;
   border-radius: 50%;
-  background-color: #8ee9b2;
+  background-color: blue;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -6284,7 +6284,7 @@ Footer Area CSS
 
 .single-footer-widget .social li a:hover {
   color: #ffffff;
-  background-color: #19ce67;
+  background-color: blue;
   -webkit-transform: translateY(-2px);
           transform: translateY(-2px);
 }
@@ -6323,7 +6323,7 @@ Footer Area CSS
 }
 
 .single-footer-widget .departments-list li a:hover {
-  color: #19ce67;
+  color: blue;
 }
 
 .single-footer-widget .departments-list li:last-child {
@@ -6349,7 +6349,7 @@ Footer Area CSS
 }
 
 .single-footer-widget .links-list li a:hover {
-  color: #19ce67;
+  color: blue;
 }
 
 .single-footer-widget .links-list li:last-child {
@@ -6403,7 +6403,7 @@ Footer Area CSS
 }
 
 .copyright-area p a:hover {
-  color: #19ce67;
+  color: blue;
 }
 
 /*================================================
@@ -6414,7 +6414,7 @@ Go Top CSS
   cursor: pointer;
   top: 50%;
   right: 15px;
-  background: #d2f5e1;
+  background: red;
   z-index: 4;
   width: 40px;
   text-align: center;
@@ -6424,7 +6424,7 @@ Go Top CSS
   visibility: hidden;
   -webkit-transition: .9s;
   transition: .9s;
-  color: #19ce67;
+  color: blue;
   border-radius: 3px;
   font-size: 20px;
 }
@@ -6439,6 +6439,6 @@ Go Top CSS
 
 .go-top:hover, .go-top:focus {
   color: #ffffff;
-  background-color: #19ce67;
+  background-color: blue;
 }
 /*# sourceMappingURL=style.css.map */
